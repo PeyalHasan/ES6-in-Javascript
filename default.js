@@ -35,3 +35,7 @@ function addition(a,b){
 //// Arrow function 
 
 const add = (a,b) => a+b;
+const getAge = person => person.age;
+
+const getPI = () => Math.PI;
+console.log(getPI());
