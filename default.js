@@ -28,7 +28,7 @@ mari dimo kinto`;
 
 ////Function declaration
 function addition(a,b){
-    const result = a+b;
+    const result = a + b;
     return result;
 }
 
